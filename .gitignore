@@ -1,0 +1,7 @@
+ruby/output/*
+!ruby/output/.keep
+ruby/test/*
+!ruby/test/.keep
+.DS_Store
+python/*
+go/*
