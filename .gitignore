@@ -3,5 +3,11 @@ ruby/output/*
 ruby/test/*
 !ruby/test/.keep
 .DS_Store
-python/*
+
+python/output/*
+!python/output/.keep
+python/test/*
+!python/test/.keep
+__pycache__/
+
 go/*
