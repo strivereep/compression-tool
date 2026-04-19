@@ -6,5 +6,5 @@ Compression of file by 44%.
 
 ## Language used
 - Ruby
-- Python (Pending)
+- Python
 - Go (Pending)
